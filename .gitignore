@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+ENV/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Vite
+.vite/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Others
+*.swp
+*.swo
+
+# OS
+*.~
+
+# Backup
+*~
+
+# Frontend build
+frontend/dist/
